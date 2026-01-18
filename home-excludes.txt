@@ -1,0 +1,19 @@
+*/ISO-Image/*
+*/VirtualBox VMs/*
+*/snap/*
+*/games/*
+
+*/.cache/*
+*/.local/share/Trash/*
+*/.thumbnails/*
+
+*/.mozilla/*
+*/.config/chromium/*
+*/.config/google-chrome/*
+
+*/.local/share/Steam/*
+*/.steam/*
+
+*torrent*
+*GITLOCAL*
+*/Obsidian/*

@@ -1,0 +1,13 @@
+[Unit]
+Description=Daily restic home backup
+
+[Timer]
+OnCalendar=daily
+OnBootSec=10m
+
+Persistent=true
+
+RandomizedDelaySec=10m
+
+[Install]
+WantedBy=timers.target
